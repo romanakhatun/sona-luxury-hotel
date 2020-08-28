@@ -1,5 +1,5 @@
 # SONA LUXURY HOTEL
-#### Luxury Hotel create with HTML5 CSS3, bootstrap and JS
+#### Luxury Hotel create with HTML5 CSS3 & bootstrap
 
 <br />
 
